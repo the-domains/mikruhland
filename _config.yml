@@ -1,7 +1,7 @@
 name: mikruhland
 favicon: null
-layout_spectrum: 0.10559599613770843
-typography_spectrum: 0.8890385702252388
+layout_spectrum: 0.87052
+typography_spectrum: 0.76114
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.3857349222525954
-  lightness: 0.901119593763724
+  brandStrength: 0.9375
+  lightness: 0
   saturation: 0.07953027612529695
-  rhythmicContrast: 0.15234332950785756
+  rhythmicContrast: 0.25
 purpose: []
