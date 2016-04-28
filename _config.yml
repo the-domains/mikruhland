@@ -1,4 +1,5 @@
-layout_spectrum: 0.6385261
+favicon: null
+name: mikruhland
 opengraph:
   image: null
   type: null
@@ -17,24 +18,23 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.07953027612529695
+  saturation: 0.5191231
   brandStrength: 0.9375
-  rhythmicContrast: 0.25
+  lightness: 0.5219216
   brandColors:
     - '#6C5F59'
     - '#FEFFFF'
     - '#8D908A'
     - '#433937'
     - '#BFC7CB'
-  lightness: 0
+  rhythmicContrast: 1
 typography_spectrum: 0.2896455
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.6385261
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: mikruhland
+cta:
+  bucket: null
+  version: null
+  domain: null
