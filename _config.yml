@@ -1,7 +1,8 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -12,17 +13,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.5191231
+  saturation: 1
   brandStrength: 0.9375
-  lightness: 0.5219216
+  lightness: 1
   brandColors:
     - '#6C5F59'
     - '#FEFFFF'
@@ -31,10 +32,9 @@ color:
     - '#BFC7CB'
   rhythmicContrast: 1
 typography_spectrum: 0.2896455
-cta:
-  bucket: null
-  version: null
-  domain: null
 layout_spectrum: 0.9440299
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: mikruhland
