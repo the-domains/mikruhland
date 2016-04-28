@@ -1,7 +1,5 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
+favicon: null
+name: mikruhland
 opengraph:
   image: null
   type: null
@@ -24,17 +22,19 @@ color:
   brandStrength: 0.1326165
   lightness: 1
   brandColors:
-    - '#6C5F59'
-    - '#FEFFFF'
-    - '#8D908A'
-    - '#433937'
-    - '#BFC7CB'
+    - '#000000'
+    - '#FED502'
+    - '#B79901'
+    - '#FD0001'
+    - '#D8C0B9'
   rhythmicContrast: 0
 typography_spectrum: 0.7831541
-layout_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: mikruhland
+layout_spectrum: 1
