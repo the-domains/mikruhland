@@ -1,7 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -29,12 +29,12 @@ color:
     - '#8D908A'
     - '#433937'
     - '#BFC7CB'
-  rhythmicContrast: 1
-typography_spectrum: 0.2795699
-cta:
-  bucket: null
-  version: null
-  domain: null
+  rhythmicContrast: 0
+typography_spectrum: 0.7831541
 layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
 name: mikruhland
