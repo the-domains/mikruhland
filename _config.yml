@@ -1,5 +1,7 @@
-favicon: null
-name: mikruhland
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -19,7 +21,7 @@ collections:
 purpose: []
 color:
   saturation: 1
-  brandStrength: 0.1326165
+  brandStrength: 0.4982079
   lightness: 1
   brandColors:
     - '#000000'
@@ -29,12 +31,10 @@ color:
     - '#D8C0B9'
   rhythmicContrast: 0
 typography_spectrum: 0.7831541
+layout_spectrum: 1
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-layout_spectrum: 1
+favicon: null
+name: mikruhland
