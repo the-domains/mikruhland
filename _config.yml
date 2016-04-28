@@ -1,5 +1,7 @@
-favicon: null
-name: mikruhland
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -29,12 +31,10 @@ color:
     - '#BFC7CB'
   rhythmicContrast: 1
 typography_spectrum: 0.2896455
-layout_spectrum: 0.6385261
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.9440299
+favicon: null
+name: mikruhland
