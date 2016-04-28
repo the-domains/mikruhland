@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[mikruhland]]></title>
         <description><![CDATA[mikruhland]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mikruhland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 19:37:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 19:43:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mikruhland/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Letterpresso - Letterpress Online Druckerei]]></title>
+            <description><![CDATA[<article><h1>Letterpresso - Letterpress Online Druckerei</h1><p>Bei Letterpresso kannst Du hochwertige Letterpress-Druckprodukte online konfigurieren und bestellen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0add9a18664306b2cbba587a17b4b381526f585c.jpg"></article>]]></description>
+            <link>http://www.letterpresso.com/</link>
+            <guid isPermaLink="false">66f3f1eb-f362-477f-8553-2b58e7b44a0f</guid>
+            <pubDate>Thu, 28 Apr 2016 19:42:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My firstpost]]></title>
             <description><![CDATA[<p>Headline</p>]]></description>
-            <link>undefinedmy-firstpost/index.html</link>
+            <link>https://thegrid.ai/mikruhland/my-firstpost/index.html</link>
             <guid isPermaLink="false">ad04cf1e-731d-40c9-8726-bcdf52108f60</guid>
             <pubDate>Thu, 28 Apr 2016 19:37:55 GMT</pubDate>
         </item>
